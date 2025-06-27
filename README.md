@@ -9,7 +9,7 @@ The model achieved an **accuracy of 81.67%**, demonstrating good performance on 
 
 | ![Image Testing](https://github.com/user-attachments/assets/2d5b492d-26c6-46dc-9ffd-e971893d4890) | ![Classification Results](https://github.com/user-attachments/assets/ae7a54d0-75b7-422e-ba46-8fd04b258ff6) |
 |:--:|:--:|
-| Image Testing | Classification Results |
+| Image Testing | Classification Result |
 
 ## Outcome summary
 <p align="center">
