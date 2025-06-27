@@ -1,7 +1,7 @@
 # 💫 Skin Type Classification Using Convolutional Neural Networks (CNN)
 
 ## Project summary
-This project aimed to develop a model that can automatically classify human skin types—normal and oily—from images, with potential applications in skincare and dermatology.
+This project aimed to develop a model that can automatically classify face skin types (normal and oily) from images, with potential applications in skincare and dermatology.
 A total of 600 images were used in the experiment, divided into 480 for training, 60 for validation, and 60 for testing.
 A pre-trained VGG16 model, based on Convolutional Neural Networks (CNNs), was fine-tuned for this binary classification task. 
 CNNs form the core architecture of VGG16, enabling effective feature extraction from images.
