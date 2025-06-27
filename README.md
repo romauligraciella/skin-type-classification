@@ -23,9 +23,7 @@ Overall, the model shows promising performance with more correct predictions tha
 However, the presence of some misclassifications indicates room for improvement, especially in reducing false positives and negatives.
 
 ## Recommendation
-- Expand the dataset with more varied and higher-resolution skin images to improve model generalization.
 - Add a “Dry” skin class to turn the model into a multi-class classifier for more comprehensive results.
-- Apply data augmentation (e.g., brightness, zoom, rotation) to reduce overfitting and improve robustness.
 - For better real-world performance, consider building a webcam-based real-time classification system with lightweight models like MobileNet.
   
 ## Technologies used
