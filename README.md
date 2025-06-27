@@ -1,4 +1,4 @@
-# 💫 Skin Type Analysis Using Convolutional Neural Networks (CNN)
+# 💫 Skin Type Classification Using Convolutional Neural Networks (CNN)
 
 ## Project summary
 This project aimed to develop a model that can automatically classify human skin types—normal and oily—from images, with potential applications in skincare and dermatology.
